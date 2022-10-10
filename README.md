@@ -15,6 +15,6 @@ Warming of northern high latitude regions (NHL, > 50 °N) has increased both
 (4) We find that the primary mechanism for the regional carbon sink is enhanced CO2 uptake in the early growing season, which is outpacing late-season carbon emissions.
 (5) Our findings weaken the view of northern forests as a future carbon sink and point to the need for global earth system models to better represent respiration processes affecting carbon sink activity and climate feedbacks.
 
-<figure1 src="https://user-images.githubusercontent.com/11392181/194894376-968b366a-0ec9-415c-8d64-4d05048e0750.JPG" width=50% height=50%>
-
+<img src="https://user-images.githubusercontent.com/11392181/194895558-e69bf82e-4c54-4841-ad43-14a2b17bb634.JPG" width=50% height=50%>
+![figure1](https://user-images.githubusercontent.com/11392181/194895558-e69bf82e-4c54-4841-ad43-14a2b17bb634.JPG)
 ![figure2](https://user-images.githubusercontent.com/11392181/194894390-5ae60b04-50a2-4a04-8aef-938f1eb943c2.JPG)
